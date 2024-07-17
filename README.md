@@ -4,4 +4,4 @@ This table provides a detailed overview of the best practice accounting treatmen
 
 ## Snippet
 
-https://github.com/DarshiniKrishna/Accounting-Rules-and-Process-Flow-Template/blob/09d69237da56df6afccb0562d79fff116f183f1d/accounting%20rules%20snippet.png
+![Example Image](https://github.com/DarshiniKrishna/Accounting-Rules-and-Process-Flow-Template/blob/09d69237da56df6afccb0562d79fff116f183f1d/accounting%20rules%20snippet.png)
